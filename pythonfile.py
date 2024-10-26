@@ -1,2 +1,2 @@
 print('ThangNaoCo')
-print('vaicalonnnn')
+print('vaicalon')
